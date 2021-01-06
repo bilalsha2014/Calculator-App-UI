@@ -1,0 +1,50 @@
+section {
+  text-align: center;
+}
+body {
+  background-image: url("bg1.jpg");
+  background-color: #fff;
+  font-family: "Times New Roman", Times, serif;
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
+  margin: 0px;
+  padding: 0px;
+}
+td {
+  padding: 20px 30px;
+  border: 1px solid rgba(128, 128, 128, 0.74);
+}
+#inputtd {
+  padding: 0px;
+  border: 1px solid rgba(128, 128, 128, 0.74);
+}
+.Number {
+  font-weight: 600;
+}
+#inputtag {
+  padding: 19px 19px;
+  font-size: 20px;
+  width: 85%;
+  margin: 4px;
+}
+table {
+  background-color: rgba(216, 216, 216, 0.692);
+  margin-bottom: 180px;
+}
+#headerheading {
+  font-size: 30px;
+  font-weight: 500;
+}
+
+header {
+  position: fixed;
+  background-color: black;
+  width: 100%;
+  color: #fff;
+  padding: 15px;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+}
